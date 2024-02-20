@@ -14,4 +14,5 @@ Vamos a intenatar desarrollarnos en el mundo de la tecnologia a full, para estar
 * Un mundo cada vez mas competitivo.
 * Es importante para el crecimiento personal y profesional.
 * El conocimiento es poder.
+* La humanidad necesitas adoptar la tecnologia para el progreso del mundo.
 
